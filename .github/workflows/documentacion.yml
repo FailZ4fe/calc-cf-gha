@@ -12,7 +12,7 @@ jobs:
       - name: Hello There!
         uses: failz4fe/githib-action-en-js@v0.1
         with:
-          hello-there: "General Kenobi!!!"
+          hello-there: "General Ben Kenobi!!!"
           
       - name: Checkout
         uses: actions/checkout@v4.2.2
