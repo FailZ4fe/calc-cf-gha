@@ -10,7 +10,7 @@ jobs:
     steps:
       
       - name: Hello There!
-        uses: failz4fe/githib-action-en-js@v0.0.1
+        uses: FailZ4fe/githib-action-en-js@v0.0.1
         with:
           hello-there: "General Kenobi!!! o.0"  
       
